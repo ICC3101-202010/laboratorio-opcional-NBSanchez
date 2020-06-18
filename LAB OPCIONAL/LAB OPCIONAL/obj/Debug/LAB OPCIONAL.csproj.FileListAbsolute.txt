@@ -1,0 +1,6 @@
+C:\Users\JENNY\Desktop\laboratorio-opcional-NBSanchez\LAB OPCIONAL\LAB OPCIONAL\obj\Debug\LAB OPCIONAL.csprojAssemblyReference.cache
+C:\Users\JENNY\Desktop\laboratorio-opcional-NBSanchez\LAB OPCIONAL\LAB OPCIONAL\bin\Debug\LAB OPCIONAL.exe.config
+C:\Users\JENNY\Desktop\laboratorio-opcional-NBSanchez\LAB OPCIONAL\LAB OPCIONAL\bin\Debug\LAB OPCIONAL.exe
+C:\Users\JENNY\Desktop\laboratorio-opcional-NBSanchez\LAB OPCIONAL\LAB OPCIONAL\bin\Debug\LAB OPCIONAL.pdb
+C:\Users\JENNY\Desktop\laboratorio-opcional-NBSanchez\LAB OPCIONAL\LAB OPCIONAL\obj\Debug\LAB OPCIONAL.exe
+C:\Users\JENNY\Desktop\laboratorio-opcional-NBSanchez\LAB OPCIONAL\LAB OPCIONAL\obj\Debug\LAB OPCIONAL.pdb
